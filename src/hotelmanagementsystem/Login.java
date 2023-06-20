@@ -40,7 +40,6 @@ public class Login extends JFrame {
         cancel.setForeground(Color.WHITE);
         add(cancel);
         
-        
         ImageIcon i1= new ImageIcon(ClassLoader.getSystemResource("icons/second.jpg"));
         
         Image i2 = i1.getImage().getScaledInstance(200 , 200, Image.SCALE_DEFAULT);
